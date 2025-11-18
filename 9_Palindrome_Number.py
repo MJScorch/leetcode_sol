@@ -1,3 +1,5 @@
+## Time: O(N)
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         s = str(x)
