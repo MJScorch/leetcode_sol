@@ -1,4 +1,4 @@
-## Time: O(N)
+## Time: O(n)
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:
