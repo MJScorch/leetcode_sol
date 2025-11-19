@@ -4,4 +4,4 @@ A collection of LeetCode problems I've solved.
 
 Python3 & MySQL (coming soon).
 
-Current progress: 3 problems solved
+Current progress: 4 problems solved
